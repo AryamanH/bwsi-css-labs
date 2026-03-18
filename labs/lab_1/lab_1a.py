@@ -9,7 +9,7 @@ def main():
     print("Hello World!")
 
     name = "Aryaman Hegde" # TODO: Insert your name between the double quotes
-
+    robot_speed = 5 # m/s
     print(f"{name}, Welcome to the CSS course!")
     print("This is a second change to the file")
 
